@@ -1,0 +1,7 @@
+echo node_modules/>> .gitignore
+echo .next/>> .gitignore
+echo .vercel/>> .gitignore
+echo .env>> .gitignore
+echo .env.*>> .gitignore
+echo dist/>> .gitignore
+echo coverage/>> .gitignore
